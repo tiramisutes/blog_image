@@ -1,7 +1,7 @@
 # blog_image
 
 ```
-$ git add photo.png
+$ git add awk-evn.png
 
 $ git commit -a -m "update"
 
